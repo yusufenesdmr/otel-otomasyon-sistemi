@@ -52,9 +52,11 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 - **Reservation_id**: Faturayı ödeyen kişinin adı
 - **Date**: Rezervasyon tarihi.
   
-### E Relations
+### Relations
 
 1. **Customer - Today Price**: Her müşteri birden fazla günlük ücret ödeyebilir. (**M:N**).
 2. **Customer - Bill**: Her müşterinin bir tane faturası mevcuttur. (**1:N**).
 3. **Customer - Room**: Her müşteri birden fazla oda kiralayabilir. (**N:1**).
 4. **Room - Hotel**: Bir otelin birden fazla odası vardır. (**N:1**).
+
+![image](https://github.com/user-attachments/assets/9446d1de-3fab-4596-9d49-ec50e495c0d3)
