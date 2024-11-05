@@ -8,7 +8,7 @@ Otel Otomasyon Sistemi, aşağıdaki kullanıcı türlerini ve işlevleri destek
 - **Müşteriler**: Otel odalarını görüntüleyebilir, rezervasyon yapabilir, yorum bırakabilir, puan verebilir, konaklama geçmişlerini kaydedebilir ve otel hizmetlerini (restoran, spa vb.) kullanabilir.
 - **Otel Yöneticileri**: Oda bilgileri, fiyatlandırmalar, müşteri bilgileri, rezervasyonlar, otel etkinlikleri ve hizmetler hakkında bilgi ekleyebilir ve düzenleyebilir.
 - **Oda Yönetimi**: Otel odalarının durumu, rezervasyonları ve oda tipleri gibi çeşitli faktörleri içerir. 
-- **Fatura**:otel hizmetlerinden yararlanan müşteriler için faturalama işlemlerini düzenler, takip eder ve yönetir.
+- **Fatura**: Otel hizmetlerinden yararlanan müşteriler için faturalama işlemlerini düzenler, takip eder ve yönetir.
   
 Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, personel, faturalama, geri bildirimler ve kampanyalar gibi birçok varlığı kapsar.
 
