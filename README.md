@@ -2,6 +2,11 @@
 
 Bir otel için otomasyon sistemi geliştirerek, rezervasyon, oda, müşteri ve ödeme yönetimini daha verimli hale getirmek.
 
+### Proje Ekibindeki Kişiler
+- Yusuf Enes Demir (225260001)
+- Mert Arslan (225260051)
+- Yusuf Talha Yıldırım (225260085)
+
 ## Proje Özeti
 
 Otel Otomasyon Sistemi, aşağıdaki kullanıcı türlerini ve işlevleri destekler:
@@ -30,11 +35,12 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 #### 3. Room
 - **Number** (PK): Oda numarası.
 - **Room_Type**: Sanatçının adı.
-- 
+
 #### 4. Hotel
 - **Hotel_id** (PK): Otelin kimlik numarası.
 - **Location**: Otelin adresi.
 - **Name**: Otelin ismi.
+- **Score**: Otel puanlaması.
 
 #### 5. Bill 
 - **Bill_id** (PK): Fatura kimlik numarası.
