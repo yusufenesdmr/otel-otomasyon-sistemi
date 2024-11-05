@@ -1,4 +1,4 @@
-# Otel Otomasyon Sistemi Projesi
+# Otel Konaklama Sistemi Projesi
 
 Bir otel için otomasyon sistemi geliştirerek, rezervasyon, oda, müşteri ve ödeme yönetimini daha verimli hale getirmek.
 
