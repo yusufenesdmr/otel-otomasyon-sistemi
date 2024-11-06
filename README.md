@@ -49,7 +49,7 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 - **BName**: Faturayı ödeyen kişinin adı.
 - 
 #### 6. Reservation
-- **Reservation_id**: Faturayı ödeyen kişinin adı
+- **Reservation_id** (PK): Faturayı ödeyen kişinin adı
 - **Date**: Rezervasyon tarihi.
   
 ### Relations
