@@ -47,7 +47,7 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 - **Date**: Faturanın oluşturulma tarihi.
 - **Amount**: Faturanin bedel miktarı.
 - **BName**: Faturayı ödeyen kişinin adı.
-- 
+  
 #### 6. Reservation
 - **Reservation_id** (PK): Faturayı ödeyen kişinin adı
 - **Date**: Rezervasyon tarihi.
