@@ -34,7 +34,7 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 
 #### 3. Room
 - **Number** (Primary Key): Oda numarası.
-- **Room_Type**: Sanatçının adı.
+- **Room_Type**: Odanın tipi.
 
 #### 4. Hotel
 - **Hotel_id** (Primary Key): Otelin kimlik numarası.
