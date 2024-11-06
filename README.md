@@ -22,34 +22,34 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 ### Entitys (Tables) and Attributes
 
 #### 1. Customer
-- **Cus_id** (PK): Müşterinin kimlik numarası.
+- **Cus_id** (Primary Key): Müşterinin kimlik numarası.
 - **Name**: Müşterinin adı.
 - **Phone**: Müşterinin telefon numarası.
 - **Email**: Müşterinin mail adresi.
 
 #### 2. Today Price
-- **Price** (PK): Oda ücreti.
+- **Price** (Primary Key): Oda ücreti.
 - **Available Room**: Boş oda.
 - **Date**: Odanın ücretinin tarihi.
 
 #### 3. Room
-- **Number** (PK): Oda numarası.
+- **Number** (Primary Key): Oda numarası.
 - **Room_Type**: Sanatçının adı.
 
 #### 4. Hotel
-- **Hotel_id** (PK): Otelin kimlik numarası.
+- **Hotel_id** (Primary Key): Otelin kimlik numarası.
 - **Location**: Otelin adresi.
 - **Name**: Otelin ismi.
 - **Score**: Otel puanlaması.
 
 #### 5. Bill 
-- **Bill_id** (PK): Fatura kimlik numarası.
+- **Bill_id** (Primary Key): Fatura kimlik numarası.
 - **Date**: Faturanın oluşturulma tarihi.
 - **Amount**: Faturanin bedel miktarı.
 - **BName**: Faturayı ödeyen kişinin adı.
   
 #### 6. Reservation
-- **Reservation_id** (PK): Faturayı ödeyen kişinin adı
+- **Reservation_id** (Primary Key): Faturayı ödeyen kişinin adı
 - **Date**: Rezervasyon tarihi.
   
 ### Relations
