@@ -49,7 +49,7 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 #### 5. Reservation
 - **Reservation_id** (Primary Key): Reservasyon numarası.
 - **Customer_id** (Foreign Key): Rezervasyonu yapan müşteri kimliği.
-- **Room_Number** (Foreign Key): Rezervasyon yapılan oda numarası.
+- **Room_id** (Foreign Key): Rezervasyon yapılan oda numarası.
 - **Start_Date**: Rezervasyon başlangıç tarihi.
 - **End_Date**: Rezervasyon bitiş tarihi.
 
