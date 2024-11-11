@@ -67,7 +67,8 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 3. **Customer - Review**: Her değerlendirme tek bir müşteriye aittir (**N-1**).
 4. **Room - Hotel**: Bir otelde birden fazla oda olabilir (**1:N**).
 5. **Room - Reservation** : Her rezervasyon belirli bir odaya aittir. (**N-1**)
-6. **Hotel - Review** : Bir otel, birden fazla müşteri tarafından değerlendirilebilir (**1-N**).
 
-![image](https://github.com/user-attachments/assets/08371886-2167-4461-9d84-badd7104a589)
+
+![image](https://github.com/user-attachments/assets/09df4a56-5936-4008-89b3-19573be548d5)
+
 
