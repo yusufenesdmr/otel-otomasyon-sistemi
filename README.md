@@ -68,7 +68,8 @@ Bu veri tabanı modeli; otel, odalar, müşteriler, rezervasyonlar, hizmetler, p
 4. **Room - Hotel**: Bir otelde birden fazla oda olabilir (**1:N**).
 5. **Room - Reservation** : Her rezervasyon belirli bir odaya aittir. (**N-1**)
 
+![image](https://github.com/user-attachments/assets/172b76ea-a8e8-44d9-b684-85193e75ea41)
 
-![image](https://github.com/user-attachments/assets/09df4a56-5936-4008-89b3-19573be548d5)
+
 
 
