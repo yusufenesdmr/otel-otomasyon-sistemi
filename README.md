@@ -163,7 +163,8 @@ Her özellik yalnızca bir oda ile ilişkilidir (N:1).
 
 ## ER DİYAGRAMI
 
-![image](https://github.com/user-attachments/assets/0b719b3b-d0a2-4667-9cfd-a0d07c38885e)
+![image](https://github.com/user-attachments/assets/e9e5bb9d-e19e-4a43-b8ba-ad2cca72a4e3)
+
 
 
 
