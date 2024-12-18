@@ -159,7 +159,11 @@ Her ödeme yalnızca bir rezervasyon ile ilişkilidir (N:1).
 **Room (Oda) ile Room_Features (Oda Özellikleri):**
 
 Her oda birden fazla özellikle ilişkilendirilebilir (1:N).
-Her özellik yalnızca bir oda ile ilişkilidir (N:1).
+Her özellik yalnızca bir oda ile ilişkilidir (N:1). 
+
+## ER DİYAGRAMI
+
+![image](https://github.com/user-attachments/assets/3e9cef7b-9c3b-41ff-955f-ae5f740d5944)
 
 
 
